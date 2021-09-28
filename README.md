@@ -31,8 +31,8 @@
 ![Snake animation](https://github.com/julioneto09/julioneto09/blob/output/github-contribution-grid-snake.svg)
   
 ---
-Créditos: [Júlio Gonçalo](https://github.com/julioneto09)
-Última edição: 05/08/2021
+Créditos: [Júlio Gonçalo](https://github.com/julioneto09).
+Última edição: 20/09/2021
   
 <!--
 Count de visualizações
