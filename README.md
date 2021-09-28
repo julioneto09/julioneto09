@@ -16,8 +16,13 @@
   <img align="center" alt="React" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt"Node" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="C" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  </div><br>  
+  </div><br> 
   
+  <div style="display: inline_block"><br>
+    <h2 align="center">Estou aprendendo</h2>
+    <img align="center" alt="Python" height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    
+  </div>  
 <div>
   <h2 align="center">Contatos</h2>
   <a href="https://www.linkedin.com/in/julio-goncalo-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
